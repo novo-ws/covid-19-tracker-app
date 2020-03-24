@@ -25410,7 +25410,7 @@ return P.a9($async$hN,s)},
 I:function(a){var t,s,r,q,p,o,n,m,l,k=this,j=null,i=L.bG("Future search feature",j),h=E.YL(L.bG("Search confirmed cases near you",j),i)
 i=k.x
 i=L.bG("Last Updated: "+H.a(i==null?j:i.gr9()),j)
-t=E.YL(L.bG("Data fetching for change every 5 minutes.",j),i)
+t=E.YL(L.bG("Fetching for change every 5 minutes.",j),i)
 i=T.eZ(L.bG(k.a.c,j),C.ao)
 s=M.cf(j,new T.cw(C.G,j,j,T.eZ(new N.x6(new F.SP(a,t),j,j,j,j,j,j,j,j,j,j,j,j,L.fH(C.vR,j,120),j,j,j,C.a3,j,!1,j,j),C.ao),j),j,j,j,j,j,C.o6,j)
 r=k.r
@@ -25487,7 +25487,7 @@ $1:function(a){return this.a}}
 F.SL.prototype={
 $1:function(a){return new S.vj(null)}}
 S.vj.prototype={
-I:function(a){var t=null,s=E.YP(t,t,t,L.bG("About",t)),r=L.bG("This app is designed to be displayed on any device from smartphones to big monitors.",t),q=L.bG("Data fetching for change every 5 minutes.",t),p=L.bG("",t),o=L.bG("Resources:",t),n=H.b([S.Zd(L.bG("Sources",t)),S.Zd(L.bG("Link",t))],u.BR),m=u.fQ
+I:function(a){var t=null,s=E.YP(t,t,t,L.bG("About",t)),r=L.bG("This app is designed to be displayed on any device.",t),q=L.bG("Fetching for change every 5 minutes.",t),p=L.bG("",t),o=L.bG("Resources:",t),n=H.b([S.Zd(L.bG("Sources",t)),S.Zd(L.bG("Link",t))],u.BR),m=u.fQ
 return M.a_B(s,M.cf(t,new T.cw(C.G,t,t,T.l0(H.b([r,q,p,o,new S.oy(n,H.b([S.ox(H.b([S.ei(L.bG("Data",t),t),S.ei(L.fH(C.ch,t,t),new S.Fx())],m)),S.ox(H.b([S.ei(L.bG("Flutter",t),t),S.ei(L.fH(C.ch,t,t),new S.Fy())],m)),S.ox(H.b([S.ei(L.bG("Data Server API",t),t),S.ei(L.fH(C.ch,t,t),new S.Fz())],m)),S.ox(H.b([S.ei(L.bG("App Source",t),t),S.ei(L.fH(C.ch,t,t),new S.FA())],m)),S.ox(H.b([S.ei(L.bG("App Source Web",t),t),S.ei(L.fH(C.ch,t,t),new S.FB())],m)),S.ox(H.b([S.ei(L.bG("NOVO",t),t),S.ei(L.fH(C.ch,t,t),new S.FC())],m))],u.xy),S.a4v(n),t),M.cf(t,L.bG("Created By NOVO",t),t,t,t,t,t,new V.aA(20,20,20,20),t)],u.E),C.aI,C.cs,C.bt),t),t,t,t,t,t,t,t),t)}}
 S.Fx.prototype={
 $0:function(){return M.hA("https://github.com/CSSEGISandData/COVID-19")},
